@@ -1,0 +1,8 @@
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\bin\Debug\ZoomFucker.exe.config
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\bin\Debug\ZoomFucker.exe
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\bin\Debug\ZoomFucker.pdb
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\obj\Debug\ZoomFucker.Properties.Resources.resources
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\obj\Debug\ZoomFucker.csproj.GenerateResource.cache
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\obj\Debug\ZoomFucker.exe
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\obj\Debug\ZoomFucker.pdb
+C:\Users\X4M\source\repos\ZoomFucker\ZoomFucker\obj\Debug\ZoomFucker.ZoomScheduler.resources
