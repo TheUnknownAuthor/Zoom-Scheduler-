@@ -15,3 +15,7 @@ A: Yes you can use it for anything that uses a link
 Q: Do I need to set a browser? 
 
 A: No, It will use your default browser.
+
+Q: What happens after all my zooms are over?
+
+A: The program will fully shut down and stop running in the background.
