@@ -19,3 +19,7 @@ A: No, It will use your default browser.
 Q: What happens after all my zooms are over?
 
 A: The program will fully shut down and stop running in the background.
+
+Q: Can I use this on my Chromebook?
+
+A: No, This is for PC only.
